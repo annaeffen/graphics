@@ -3,6 +3,8 @@
 
 - Fix windows detection (#19, @fdopen)
 
+- Fix windows dependencies (#.., @diml)
+
 5.1.0 (05/12/2019)
 ------------------
 
